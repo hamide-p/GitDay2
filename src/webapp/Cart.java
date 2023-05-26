@@ -7,4 +7,5 @@ public class Cart {
 
     // deals
     // new changes on cart
+    // more things added
 }
